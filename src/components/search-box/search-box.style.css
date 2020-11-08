@@ -1,0 +1,15 @@
+.search{
+    -webkit-appearance: none;
+    border:1px solid #ddd;
+    outline: none;
+    padding: 0.5em 2em;
+    width: 70%;
+    line-height: 2em;
+    margin-bottom: 2em;
+}
+
+@media screen and (min-width:641px){
+.search{
+    width: 20%;
+    }
+}
